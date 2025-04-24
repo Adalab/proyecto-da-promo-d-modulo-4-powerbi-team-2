@@ -15,8 +15,8 @@ Los dashboards creados permiten descubrir patrones de popularidad, comparar tít
 📂 **Estructura del Proyecto:**
 
     ├── Análisis de Juegos de Mesa.pbix
-    ├── Final.CREO.csv
-    ├── EDA.ipynb
+    ├── Juegos de Mesa.csv
+    ├── EDA y limpieza.ipynb
     └── README.md
 
 ⚙️ **Herramientas Utilizadas:**
@@ -75,8 +75,8 @@ In today's dynamic world of entertainment, understanding and analyzing board gam
 📂 **Project Structure:**
 
 * ├── Análisis de Juegos de Mesa.pbix
-* ├── Final.CREO.csv
-* ├── EDA.ipynb
+* ├── Juegos de Mesa.csv
+* ├── EDA y limpieza.ipynb
 * └── README.md
 
 ⚙️ **Tools Used:**
